@@ -1,0 +1,15 @@
+{
+    "name": "cloudify.ro/php-integration",
+    "description": "Cloudify.ro Openstack APIs integration",
+    "type": "project",
+    "require": {
+        "php-opencloud/openstack": "^3.2",
+        "guzzlehttp/psr7": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "Marius Leustean",
+            "email": "marius@cloudify.ro"
+        }
+    ]
+}
